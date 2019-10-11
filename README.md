@@ -129,7 +129,7 @@ You have been provided with some raw HTML and an image, and need to write the ne
 -   As a last little touch, give the paragraph inside the `<article>` an appropriate padding value so that its left edge lines up with the `<h2>` and footer paragraph, and set its color to be fairly light so it is easy to read.
 
 > **Note**: Bear in mind that the second ruleset sets font-size: 10px; on the <html> element — this means that for any descendants of <html>, an em will be equal to 10px rather than 16px as it is by default. (This is of course, provided the descendants in question don't have any ancestors sitting in between them and <html> in the hierarchy that have a different font-size set on them. This could affect the values you need, although in this simple example this is not an issue.)
-
+    
 ## Example
 
 The following screenshot shows an example of what the finished design should look like:
